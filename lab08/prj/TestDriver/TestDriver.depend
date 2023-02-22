@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676582079 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab08\prj\testdriver\main.cpp
+	<iostream>
+	"ModulesHorbachov.h"
+
+1676579987 f:\github\bmtp\horbachov-yevhenii-ki222\lab08\prj\moduleshorbachov.h
+

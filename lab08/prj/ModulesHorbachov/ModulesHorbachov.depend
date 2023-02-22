@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676581301 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab08\prj\moduleshorbachov\main.cpp
+	<math.h>
+	<iostream>
+

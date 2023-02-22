@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677071673 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab08\prj\horbachov_task\main.cpp
+	<iostream>
+	<Windows.h>
+	"ModulesHorbachov.h"
+
