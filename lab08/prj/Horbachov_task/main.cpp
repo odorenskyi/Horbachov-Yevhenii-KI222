@@ -5,7 +5,7 @@
 using namespace std;
 
 name_and_surname(){
-    cout << "Ãîðáà÷îâ ªâãåí³é " << (char)0xA9 << endl;
+    cout << "Ð“Ð¾Ñ€Ð±Ð°Ñ‡Ð¾Ð² Ð„Ð²Ð³ÐµÐ½Ñ–Ð¹ " << (char)0xA9 << endl;
 }
 
 logic_exercise(char a, char b){
@@ -18,8 +18,8 @@ logic_exercise(char a, char b){
 }
 
 decimal_and_hex(int x, int y, int z){
-    cout << "Äåñÿòêîâà: " << x << ", " << y << ", " << z << endl;
-    printf("Ø³ñòíàäöÿòêîâà: %X, %X, %X\n", x, y, z);
+    cout << "Ð”ÐµÑÑÑ‚ÐºÐ¾Ð²Ð°: " << x << ", " << y << ", " << z << endl;
+    printf("Ð¨Ñ–ÑÑ‚Ð½Ð°Ð´Ñ†ÑÑ‚ÐºÐ¾Ð²Ð°: %X, %X, %X\n", x, y, z);
 }
 
 int main()
@@ -28,11 +28,11 @@ int main()
     SetConsoleOutputCP(1251);
     name_and_surname();
     char a, b;
-    cout << "Ââåä³òü çíà÷åííÿ a, b: " << endl;
+    cout << "Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ a, b: " << endl;
     cin >> a >> b;
     logic_exercise(a, b);
     float x, y, z;
-    cout << "Ââåä³òü çíà÷åííÿ x, y, z: " << endl;
+    cout << "Ð’Ð²ÐµÐ´Ñ–Ñ‚ÑŒ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð½Ñ x, y, z: " << endl;
     cin >> x >> y >> z;
     decimal_and_hex(x, y, z);
     cout << "S = " << s_calculation(x, y, z);
