@@ -4,38 +4,38 @@
 
 using namespace std;
 
-name_and_surname(){
-    cout << "Горбачов Євгеній " << (char)0xA9 << endl;
+string name_and_surname(){
+    return "Горбачов Євгеній (char)0xA9";
 }
 
-logic_exercise(char a, char b){
+bool logic_exercise(char a, char b){
     if (a + 7 == b){
-        cout << "true" << endl;
+        return "true";
     }
     else{
-        cout << "false" << endl;
+        return "false";
     }
 }
 
-decimal_and_hex(int x, int y, int z){
+float decimal_and_hex(int x, int y, int z){
     cout << "Десяткова: " << x << ", " << y << ", " << z << endl;
     printf("Шістнадцяткова: %X, %X, %X\n", x, y, z);
+    return s_calculation(x, y, z);
 }
 
 int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    name_and_surname();
+    cout << name_and_surname() << endl;
     char a, b;
     cout << "Введіть значення a, b: " << endl;
     cin >> a >> b;
-    logic_exercise(a, b);
+    cout << logic_exercise(a, b) << endl;;
     float x, y, z;
     cout << "Введіть значення x, y, z: " << endl;
     cin >> x >> y >> z;
-    decimal_and_hex(x, y, z);
-    cout << "S = " << s_calculation(x, y, z);
+    cout << decimal_and_hex(x, y, z);
 
     return 0;
 }
