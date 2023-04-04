@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680630516 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab09\prj\testdirver\main.cpp
+	<iostream>
+	"ModulesHorbachov.h"
+
