@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1681753122 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<math.h>
+	<tgmath.h>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<algorithm>
+	<ctime>
+	<bitset>
+
