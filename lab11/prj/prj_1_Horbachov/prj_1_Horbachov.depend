@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1682784139 source:c:\users\user\documents\лаб11\prj\prj_1_tkachenko\main.cpp
+	<iostream>
+	<Windows.h>
+	"struct_type_project_1.h"
+	"ModulesTkachenko.h"
+	"ModulesChervonyi.h"
+	"ModulesHorbachov.h"
+
+1682784253 c:\users\user\documents\лаб11\prj\struct_type_project_1.h
+	<vector>
+
+1682784336 c:\users\user\documents\лаб11\prj\modulestkachenko.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682784338 c:\users\user\documents\лаб11\prj\moduleschervonyi.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682784254 c:\users\user\documents\лаб11\prj\moduleshorbachov.h
+	"struct_type_project_1.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+
+1682784139 source:e:\prj\prj_1_tkachenko\main.cpp
+	<iostream>
+	<Windows.h>
+	"struct_type_project_1.h"
+	"ModulesTkachenko.h"
+	"ModulesChervonyi.h"
+	"ModulesHorbachov.h"
+
+1682784253 e:\prj\struct_type_project_1.h
+	<vector>
+
+1682784336 e:\prj\modulestkachenko.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682784338 e:\prj\moduleschervonyi.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682788827 e:\prj\moduleshorbachov.h
+	"struct_type_project_1.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+
+1682789965 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab11\prj\prj_1_horbachov\main.cpp
+	<iostream>
+	<Windows.h>
+	"struct_type_project_1.h"
+	"ModulesTkachenko.h"
+	"ModulesChervonyi.h"
+	"ModulesHorbachov.h"
+
+1682784253 f:\github\bmtp\horbachov-yevhenii-ki222\lab11\prj\struct_type_project_1.h
+	<vector>
+
+1682784336 f:\github\bmtp\horbachov-yevhenii-ki222\lab11\prj\modulestkachenko.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682784338 f:\github\bmtp\horbachov-yevhenii-ki222\lab11\prj\moduleschervonyi.h
+	"struct_type_project_1.h"
+	<iostream>
+	<Windows.h>
+
+1682788827 f:\github\bmtp\horbachov-yevhenii-ki222\lab11\prj\moduleshorbachov.h
+	"struct_type_project_1.h"
+	<iostream>
+	<fstream>
+	<Windows.h>
+
