@@ -1,0 +1,30 @@
+Test Suite ¹1
+Length = 1.000000	height = 2.000000	width = 10.000000
+Result = 20.000000
+Test Suite ¹2
+Length = 2.000000	height = 5.000000	width = 3.000000
+Result = 30.000000
+Test Suite ¹3
+Length = 3.000000	height = 19.200001	width = 6.000000
+Result = 345.600006
+Test Suite ¹4
+Length = 4.000000	height = 7.000000	width = 76.000000
+Result = 2128.000000
+Test Suite ¹5
+Length = 5.000000	height = 6.000000	width = 5.000000
+Result = 150.000000
+Test Suite ¹6
+Length = 6.000000	height = 1.000000	width = 0.000000
+Result = 0.000000
+Test Suite ¹7
+Length = 7.000000	height = 1.000000	width = 100.000000
+Result = 700.000000
+Test Suite ¹8
+Length = 8.000000	height = 8.000000	width = 7.000000
+Result = 448.000000
+Test Suite ¹9
+Length = 9.000000	height = 0.500000	width = 90.000000
+Result = 405.000000
+Test Suite ¹10
+Length = 10.000000	height = 4.000000	width = 7.000000
+Result = 280.000000
