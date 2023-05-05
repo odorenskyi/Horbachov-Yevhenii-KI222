@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1683277937 source:f:\github\bmtp\horbachov-yevhenii-ki222\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	"ModulesHorbachov.h"
+
+1683280196 f:\github\bmtp\horbachov-yevhenii-ki222\lab12\prj\moduleshorbachov.h
+	<fstream>
+	<string>
+
